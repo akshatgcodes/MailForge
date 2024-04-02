@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Generated output (regenerated on every run, not source)
+/preview/*.html
+sent_log_*.txt
+
+# OS
+.DS_Store
