@@ -168,3 +168,7 @@ a reserved non-routable domain) was ever used.
   option) is deprecated and removed as of Python 3.12+; `aiosmtpd` was used
   instead as it's the documented modern replacement and behaves the same
   way (a local, non-relaying debug SMTP sink).
+
+## Notes
+
+Built as a focused, single-purpose tool - a bulk personalized email sender, nothing more, nothing less.
