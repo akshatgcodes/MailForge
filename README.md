@@ -172,3 +172,7 @@ a reserved non-routable domain) was ever used.
 ## Notes
 
 Built as a focused, single-purpose tool - a bulk personalized email sender, nothing more, nothing less.
+
+## Troubleshooting
+
+If something doesn't run as expected, double-check you're using the dependency versions noted above and running the exact commands from the "Run it" section.
