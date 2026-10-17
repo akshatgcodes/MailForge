@@ -19,3 +19,9 @@ sent_log_*.txt
 
 # OS
 .DS_Store
+
+# Env files (keep the example)
+.env.local
+.env.*.local
+.env*
+!.env.example
